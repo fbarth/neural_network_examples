@@ -10,3 +10,5 @@ Diretórios:
 - `recurrent`: Exemplos de redes neurais recorrentes.
 
 Cada diretório contém exemplos de código, arquivos de configuração e instruções para executar os exemplos correspondentes.
+
+Os exemplos de redes recorrentes usam a cotação diária de venda do dólar (USD/BRL) publicada pelo Banco Central do Brasil para comparar uma RNN simples e uma LSTM. Consulte `recurrent/README.md` para instruções de execução e detalhes da arquitetura.
